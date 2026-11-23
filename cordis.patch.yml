@@ -1,0 +1,7 @@
+- insert:
+    - id: screen-memory
+      name: '@local/screen-memory'
+      config:
+        pythonPath: 'C:\Users\ipdnv\dsh-voice\venv\Scripts\python.exe'
+        script: 'C:\work\workspace\tools\screen_roll.py'
+        framesDir: 'C:\work\workspace\.tmp\roll'

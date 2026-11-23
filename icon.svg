@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Stream probe">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#101c27"/>
+  <rect x="2.75" y="2.75" width="58.5" height="58.5" rx="13.25" fill="none" stroke="#5ad1c8" stroke-width="1.5"/>
+  <path d="M14 22h18l6 6h12" fill="none" stroke="#5ad1c8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M14 32h28" fill="none" stroke="#3a8fd6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M14 42h20" fill="none" stroke="#5ad1c8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="48" cy="28" r="4" fill="#3a8fd6"/>
+</svg>

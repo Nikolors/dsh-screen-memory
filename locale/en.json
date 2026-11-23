@@ -1,0 +1,7 @@
+﻿{
+  "meta": {
+    "title": "Screen memory",
+    "description": "Rolling screen buffer the agent can start on demand, then look back at what was on screen a minute ago.",
+    "detail": "docs/DETAIL.md"
+  }
+}
